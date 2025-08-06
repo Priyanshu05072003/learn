@@ -1,3 +1,3 @@
 # learn
 This is my first git repository
-Author - Priyanshu
+Author - Priyanshu Rampuria
